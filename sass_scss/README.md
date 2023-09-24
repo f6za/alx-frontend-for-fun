@@ -1,4 +1,4 @@
-CSS-Frontend for fun-sass_scss
+# sass/scss
 
 Learning Objectives
 
